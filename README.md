@@ -4,7 +4,7 @@ A beginner embedded project that reads ambient light with an LDR (Light-Dependen
 Resistor) through the ADC and drives an LED based on the measured value. The raw
 ADC reading is also printed over serial.
 
-![Demo](docs/images/demo.jpg)
+![Demo](docs/images/IMG_7230.jpg)
 
 ## Features
 - Analog light sensing with an LDR in a voltage divider
